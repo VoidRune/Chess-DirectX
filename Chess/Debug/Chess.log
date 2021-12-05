@@ -1,0 +1,21 @@
+﻿  Audio.cpp
+D:\Creative\Programming\Visual Studio projects\DirectX\Chess\Chess\src\Game\Components\minimp3_ex.h(410,62): warning C4244: '+=': conversion from 'uint64_t' to 'size_t', possible loss of data
+D:\Creative\Programming\Visual Studio projects\DirectX\Chess\Chess\src\Game\Components\minimp3_ex.h(491,25): warning C4244: '=': conversion from 'uint64_t' to 'size_t', possible loss of data
+D:\Creative\Programming\Visual Studio projects\DirectX\Chess\Chess\src\Game\Components\minimp3_ex.h(767,95): warning C4244: 'argument': conversion from 'uint64_t' to 'size_t', possible loss of data
+D:\Creative\Programming\Visual Studio projects\DirectX\Chess\Chess\src\Game\Components\minimp3_ex.h(834,29): warning C4244: '=': conversion from 'uint64_t' to 'int', possible loss of data
+D:\Creative\Programming\Visual Studio projects\DirectX\Chess\Chess\src\Game\Components\minimp3_ex.h(916,76): warning C4244: 'argument': conversion from 'uint64_t' to 'int', possible loss of data
+D:\Creative\Programming\Visual Studio projects\DirectX\Chess\Chess\src\Game\Components\minimp3_ex.h(955,49): warning C4244: '=': conversion from 'uint64_t' to 'size_t', possible loss of data
+D:\Creative\Programming\Visual Studio projects\DirectX\Chess\Chess\src\Game\Components\minimp3_ex.h(1192,23): warning C4244: '=': conversion from 'LONGLONG' to 'size_t', possible loss of data
+D:\Creative\Programming\Visual Studio projects\DirectX\Chess\Chess\src\Game\Components\minimp3_ex.h(1197,85): warning C4244: 'argument': conversion from 'LONGLONG' to 'SIZE_T', possible loss of data
+D:\Creative\Programming\Visual Studio projects\DirectX\Chess\Chess\src\Game\Components\Audio.cpp(219,23): warning C4018: '<': signed/unsigned mismatch
+D:\Creative\Programming\Visual Studio projects\DirectX\Chess\Chess\src\Game\Components\Audio.cpp(235,23): warning C4018: '<': signed/unsigned mismatch
+D:\Creative\Programming\Visual Studio projects\DirectX\Chess\Chess\src\Game\Components\Audio.cpp(306,23): warning C4018: '<': signed/unsigned mismatch
+D:\Creative\Programming\Visual Studio projects\DirectX\Chess\Chess\src\Game\Components\Audio.cpp(311,23): warning C4018: '<': signed/unsigned mismatch
+D:\Creative\Programming\Visual Studio projects\DirectX\Chess\Chess\src\Game\Components\Audio.cpp(322,24): warning C4018: '<': signed/unsigned mismatch
+D:\Creative\Programming\Visual Studio projects\DirectX\Chess\Chess\src\Game\Components\Audio.cpp(327,24): warning C4018: '<': signed/unsigned mismatch
+D:\Creative\Programming\Visual Studio projects\DirectX\Chess\Chess\src\Game\Components\Audio.cpp(339,24): warning C4018: '<': signed/unsigned mismatch
+D:\Creative\Programming\Visual Studio projects\DirectX\Chess\Chess\src\Game\Components\Audio.cpp(343,24): warning C4018: '<': signed/unsigned mismatch
+D:\Creative\Programming\Visual Studio projects\DirectX\Chess\Chess\src\Game\Components\Audio.cpp(379,10): warning C4101: 'hr': unreferenced local variable
+D:\Creative\Programming\Visual Studio projects\DirectX\Chess\Chess\src\Game\Components\Audio.cpp(468,22): warning C4244: 'initializing': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+D:\Creative\Programming\Visual Studio projects\DirectX\Chess\Chess\src\Game\Components\Audio.cpp(374): warning C4172: returning address of local variable or temporary: sound
+  Chess.vcxproj -> D:\Creative\Programming\Visual Studio projects\DirectX\Chess\Debug\Chess.exe

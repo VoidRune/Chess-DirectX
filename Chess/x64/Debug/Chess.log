@@ -1,0 +1,29 @@
+﻿  Audio.cpp
+D:\Creative\Programming\Visual Studio projects\DirectX\Chess\Chess\src\Game\Components\minimp3_ex.h(275,65): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Creative\Programming\Visual Studio projects\DirectX\Chess\Chess\src\Game\Components\minimp3_ex.h(358,99): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Creative\Programming\Visual Studio projects\DirectX\Chess\Chess\src\Game\Components\minimp3_ex.h(364,79): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Creative\Programming\Visual Studio projects\DirectX\Chess\Chess\src\Game\Components\minimp3_ex.h(446,124): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Creative\Programming\Visual Studio projects\DirectX\Chess\Chess\src\Game\Components\minimp3_ex.h(451,134): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Creative\Programming\Visual Studio projects\DirectX\Chess\Chess\src\Game\Components\minimp3_ex.h(475,32): warning C4267: '-=': conversion from 'size_t' to 'int', possible loss of data
+D:\Creative\Programming\Visual Studio projects\DirectX\Chess\Chess\src\Game\Components\minimp3_ex.h(476,32): warning C4267: '-=': conversion from 'size_t' to 'int', possible loss of data
+D:\Creative\Programming\Visual Studio projects\DirectX\Chess\Chess\src\Game\Components\minimp3_ex.h(501,59): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Creative\Programming\Visual Studio projects\DirectX\Chess\Chess\src\Game\Components\minimp3_ex.h(519,79): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Creative\Programming\Visual Studio projects\DirectX\Chess\Chess\src\Game\Components\minimp3_ex.h(579,99): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Creative\Programming\Visual Studio projects\DirectX\Chess\Chess\src\Game\Components\minimp3_ex.h(673,127): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Creative\Programming\Visual Studio projects\DirectX\Chess\Chess\src\Game\Components\minimp3_ex.h(834,29): warning C4244: '=': conversion from 'uint64_t' to 'int', possible loss of data
+D:\Creative\Programming\Visual Studio projects\DirectX\Chess\Chess\src\Game\Components\minimp3_ex.h(907,140): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Creative\Programming\Visual Studio projects\DirectX\Chess\Chess\src\Game\Components\minimp3_ex.h(916,76): warning C4244: 'argument': conversion from 'uint64_t' to 'int', possible loss of data
+D:\Creative\Programming\Visual Studio projects\DirectX\Chess\Chess\src\Game\Components\minimp3_ex.h(931,45): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+D:\Creative\Programming\Visual Studio projects\DirectX\Chess\Chess\src\Game\Components\minimp3_ex.h(932,37): warning C4267: '-=': conversion from 'size_t' to 'int', possible loss of data
+D:\Creative\Programming\Visual Studio projects\DirectX\Chess\Chess\src\Game\Components\minimp3_ex.h(959,40): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+D:\Creative\Programming\Visual Studio projects\DirectX\Chess\Chess\src\Game\Components\Audio.cpp(202,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Creative\Programming\Visual Studio projects\DirectX\Chess\Chess\src\Game\Components\Audio.cpp(381,10): warning C4101: 'hr': unreferenced local variable
+D:\Creative\Programming\Visual Studio projects\DirectX\Chess\Chess\src\Game\Components\Audio.cpp(433,54): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+D:\Creative\Programming\Visual Studio projects\DirectX\Chess\Chess\src\Game\Components\Audio.cpp(447,57): warning C4267: '=': conversion from 'size_t' to 'WORD', possible loss of data
+D:\Creative\Programming\Visual Studio projects\DirectX\Chess\Chess\src\Game\Components\Audio.cpp(470,22): warning C4244: 'initializing': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+D:\Creative\Programming\Visual Studio projects\DirectX\Chess\Chess\src\Game\Components\Audio.cpp(496,63): warning C4267: '=': conversion from 'size_t' to 'WORD', possible loss of data
+  Game.cpp
+D:\Creative\Programming\Visual Studio projects\DirectX\Chess\Chess\src\Game\Game.cpp(38,60): warning C4267: 'argument': conversion from 'size_t' to 'uint32_t', possible loss of data
+  Generating Code...
+D:\Creative\Programming\Visual Studio projects\DirectX\Chess\Chess\src\Game\Components\Audio.cpp(376): warning C4172: returning address of local variable or temporary: sound
+  Chess.vcxproj -> D:\Creative\Programming\Visual Studio projects\DirectX\Chess\x64\Debug\Chess.exe

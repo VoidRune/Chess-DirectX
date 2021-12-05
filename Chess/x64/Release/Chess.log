@@ -1,0 +1,34 @@
+﻿  RenderTarget.cpp
+  Audio.cpp
+D:\Creative\Programming\Visual Studio projects\DirectX\Chess\Chess\src\Game\Components\Audio.cpp(183,10): warning C4101: 'hr': unreferenced local variable
+  Renderer.cpp
+  Game.cpp
+  MainMenu.cpp
+  Buffer.cpp
+  Graphics.cpp
+D:\Creative\Programming\Visual Studio projects\DirectX\Chess\Chess\src\Graphics\Graphics.cpp(265,20): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+D:\Creative\Programming\Visual Studio projects\DirectX\Chess\Chess\src\Graphics\Graphics.cpp(266,21): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+  Shader.cpp
+  stb_image.cpp
+  Texture.cpp
+  main.cpp
+  Application.cpp
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx11.cpp
+  imgui_impl_win32.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  Keyboard.cpp
+  Compiling...
+  Mouse.cpp
+  Window.cpp
+D:\Creative\Programming\Visual Studio projects\DirectX\Chess\Chess\src\Window\Window.cpp(50,23): warning C4838: conversion from 'unsigned int' to 'LONG' requires a narrowing conversion
+D:\Creative\Programming\Visual Studio projects\DirectX\Chess\Chess\src\Window\Window.cpp(50,32): warning C4838: conversion from 'unsigned int' to 'LONG' requires a narrowing conversion
+  Generating code
+  742 of 1502 functions (49.4%) were compiled, the rest were copied from previous compilation.
+    17 functions were new in current compilation
+    64 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Chess.vcxproj -> D:\Creative\Programming\Visual Studio projects\DirectX\Chess\x64\Release\Chess.exe
